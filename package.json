@@ -1,0 +1,26 @@
+{
+  "name": "zookeeper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rebeccadherrera/zookeeper.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rebeccadherrera/zookeeper/issues"
+  },
+  "homepage": "https://github.com/rebeccadherrera/zookeeper#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "heroku": "^7.59.2",
+    "node": "^17.3.1"
+  }
+}
